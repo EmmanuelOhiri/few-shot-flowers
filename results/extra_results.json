@@ -1,0 +1,899 @@
+{
+  "A_check": [
+    {
+      "part": "A_check",
+      "method": "Untrained ResNet-18 + prototypes",
+      "setting": "5-way 1-shot",
+      "n_way": 5,
+      "k_shot": 1,
+      "episodes": 20,
+      "mean": 37.133333683013916,
+      "ci": 3.239242248803705,
+      "seconds": 0.5603582859039307
+    },
+    {
+      "part": "A_check",
+      "method": "Untrained ResNet-18 + prototypes",
+      "setting": "5-way 2-shot",
+      "n_way": 5,
+      "k_shot": 2,
+      "episodes": 20,
+      "mean": 40.600000470876694,
+      "ci": 3.464392163151938,
+      "seconds": 0.6655657291412354
+    },
+    {
+      "part": "A_check",
+      "method": "Untrained ResNet-18 + prototypes",
+      "setting": "5-way 5-shot",
+      "n_way": 5,
+      "k_shot": 5,
+      "episodes": 20,
+      "mean": 44.800000339746475,
+      "ci": 4.092182982139701,
+      "seconds": 0.30034947395324707
+    },
+    {
+      "part": "A_check",
+      "method": "Untrained ResNet-18 + prototypes",
+      "setting": "5-way 10-shot",
+      "n_way": 5,
+      "k_shot": 10,
+      "episodes": 20,
+      "mean": 44.20000046491623,
+      "ci": 3.9168409855459383,
+      "seconds": 0.7227578163146973
+    },
+    {
+      "part": "A_check",
+      "method": "Untrained ResNet-18 + prototypes",
+      "setting": "5-way 20-shot",
+      "n_way": 5,
+      "k_shot": 20,
+      "episodes": 20,
+      "mean": 47.066666930913925,
+      "ci": 3.2802280747120913,
+      "seconds": 0.14911532402038574
+    },
+    {
+      "part": "A_check",
+      "method": "Untrained ResNet-18 + prototypes",
+      "setting": "10-way 1-shot",
+      "n_way": 10,
+      "k_shot": 1,
+      "episodes": 20,
+      "mean": 23.799999877810478,
+      "ci": 2.3702587870271405,
+      "seconds": 0.1536726951599121
+    },
+    {
+      "part": "A_check",
+      "method": "Untrained ResNet-18 + prototypes",
+      "setting": "10-way 5-shot",
+      "n_way": 10,
+      "k_shot": 5,
+      "episodes": 20,
+      "mean": 31.03333294391632,
+      "ci": 1.9501205998058906,
+      "seconds": 0.3052804470062256
+    },
+    {
+      "part": "A_check",
+      "method": "Untrained ResNet-18 + prototypes",
+      "setting": "20-way 1-shot",
+      "n_way": 20,
+      "k_shot": 1,
+      "episodes": 20,
+      "mean": 15.166666805744171,
+      "ci": 1.4046667160682953,
+      "seconds": 0.11272192001342773
+    },
+    {
+      "part": "A_check",
+      "method": "Untrained ResNet-18 + prototypes",
+      "setting": "20-way 5-shot",
+      "n_way": 20,
+      "k_shot": 5,
+      "episodes": 20,
+      "mean": 23.283333331346512,
+      "ci": 1.1337498425084858,
+      "seconds": 0.14861178398132324
+    },
+    {
+      "part": "A_check",
+      "method": "ImageNet ResNet-18 + prototypes",
+      "setting": "5-way 1-shot",
+      "n_way": 5,
+      "k_shot": 1,
+      "episodes": 20,
+      "mean": 76.66666701436043,
+      "ci": 5.664064447247499,
+      "seconds": 0.11233758926391602
+    },
+    {
+      "part": "A_check",
+      "method": "ImageNet ResNet-18 + prototypes",
+      "setting": "5-way 2-shot",
+      "n_way": 5,
+      "k_shot": 2,
+      "episodes": 20,
+      "mean": 90.8666667342186,
+      "ci": 2.5623665845046197,
+      "seconds": 0.20670485496520996
+    },
+    {
+      "part": "A_check",
+      "method": "ImageNet ResNet-18 + prototypes",
+      "setting": "5-way 5-shot",
+      "n_way": 5,
+      "k_shot": 5,
+      "episodes": 20,
+      "mean": 95.66666692495346,
+      "ci": 1.641154844144362,
+      "seconds": 0.05618476867675781
+    },
+    {
+      "part": "A_check",
+      "method": "ImageNet ResNet-18 + prototypes",
+      "setting": "5-way 10-shot",
+      "n_way": 5,
+      "k_shot": 10,
+      "episodes": 20,
+      "mean": 97.4666678905487,
+      "ci": 0.976072010874523,
+      "seconds": 0.16651487350463867
+    },
+    {
+      "part": "A_check",
+      "method": "ImageNet ResNet-18 + prototypes",
+      "setting": "5-way 20-shot",
+      "n_way": 5,
+      "k_shot": 20,
+      "episodes": 20,
+      "mean": 97.46666729450226,
+      "ci": 1.010451403950629,
+      "seconds": 0.15542244911193848
+    },
+    {
+      "part": "A_check",
+      "method": "ImageNet ResNet-18 + prototypes",
+      "setting": "10-way 1-shot",
+      "n_way": 10,
+      "k_shot": 1,
+      "episodes": 20,
+      "mean": 66.83333322405815,
+      "ci": 3.602083401422854,
+      "seconds": 0.1583850383758545
+    },
+    {
+      "part": "A_check",
+      "method": "ImageNet ResNet-18 + prototypes",
+      "setting": "10-way 5-shot",
+      "n_way": 10,
+      "k_shot": 5,
+      "episodes": 20,
+      "mean": 92.90000081062317,
+      "ci": 1.6116954834392085,
+      "seconds": 0.24369263648986816
+    },
+    {
+      "part": "A_check",
+      "method": "ImageNet ResNet-18 + prototypes",
+      "setting": "20-way 1-shot",
+      "n_way": 20,
+      "k_shot": 1,
+      "episodes": 20,
+      "mean": 59.56666737794876,
+      "ci": 2.333826905503445,
+      "seconds": 0.37648916244506836
+    },
+    {
+      "part": "A_check",
+      "method": "ImageNet ResNet-18 + prototypes",
+      "setting": "20-way 5-shot",
+      "n_way": 20,
+      "k_shot": 5,
+      "episodes": 20,
+      "mean": 86.95000022649765,
+      "ci": 0.9323174712608617,
+      "seconds": 0.2446126937866211
+    },
+    {
+      "part": "A_check",
+      "method": "ImageNet ResNet-18 + logistic regression",
+      "setting": "5-way 1-shot",
+      "n_way": 5,
+      "k_shot": 1,
+      "episodes": 20,
+      "mean": 82.2666671872139,
+      "ci": 4.829719897758934,
+      "seconds": 0.7747325897216797
+    },
+    {
+      "part": "A_check",
+      "method": "ImageNet ResNet-18 + logistic regression",
+      "setting": "5-way 2-shot",
+      "n_way": 5,
+      "k_shot": 2,
+      "episodes": 20,
+      "mean": 93.13333362340927,
+      "ci": 1.913943280685622,
+      "seconds": 1.2286567687988281
+    },
+    {
+      "part": "A_check",
+      "method": "ImageNet ResNet-18 + logistic regression",
+      "setting": "5-way 5-shot",
+      "n_way": 5,
+      "k_shot": 5,
+      "episodes": 20,
+      "mean": 96.26666694879532,
+      "ci": 1.5526808233924851,
+      "seconds": 1.9449126720428467
+    },
+    {
+      "part": "A_check",
+      "method": "ImageNet ResNet-18 + logistic regression",
+      "setting": "5-way 10-shot",
+      "n_way": 5,
+      "k_shot": 10,
+      "episodes": 20,
+      "mean": 97.8000009059906,
+      "ci": 1.0334236804166759,
+      "seconds": 2.7987921237945557
+    },
+    {
+      "part": "A_check",
+      "method": "ImageNet ResNet-18 + logistic regression",
+      "setting": "5-way 20-shot",
+      "n_way": 5,
+      "k_shot": 20,
+      "episodes": 20,
+      "mean": 98.06666731834412,
+      "ci": 0.8760515991256336,
+      "seconds": 4.270676612854004
+    },
+    {
+      "part": "A_check",
+      "method": "ImageNet ResNet-18 + logistic regression",
+      "setting": "10-way 1-shot",
+      "n_way": 10,
+      "k_shot": 1,
+      "episodes": 20,
+      "mean": 74.39999997615814,
+      "ci": 3.432829762635023,
+      "seconds": 1.2358558177947998
+    },
+    {
+      "part": "A_check",
+      "method": "ImageNet ResNet-18 + logistic regression",
+      "setting": "10-way 5-shot",
+      "n_way": 10,
+      "k_shot": 5,
+      "episodes": 20,
+      "mean": 92.76666641235352,
+      "ci": 1.6663840909597367,
+      "seconds": 2.271925449371338
+    },
+    {
+      "part": "A_check",
+      "method": "ImageNet ResNet-18 + logistic regression",
+      "setting": "20-way 1-shot",
+      "n_way": 20,
+      "k_shot": 1,
+      "episodes": 20,
+      "mean": 68.43333393335342,
+      "ci": 2.124639230776444,
+      "seconds": 11.57278060913086
+    },
+    {
+      "part": "A_check",
+      "method": "ImageNet ResNet-18 + logistic regression",
+      "setting": "20-way 5-shot",
+      "n_way": 20,
+      "k_shot": 5,
+      "episodes": 20,
+      "mean": 87.08333373069763,
+      "ci": 1.2325986870490167,
+      "seconds": 32.9993200302124
+    }
+  ],
+  "A": [
+    {
+      "part": "A",
+      "method": "Untrained ResNet-18 + prototypes",
+      "setting": "5-way 1-shot",
+      "n_way": 5,
+      "k_shot": 1,
+      "episodes": 600,
+      "mean": 36.246666856110096,
+      "ci": 0.7508308914662488,
+      "seconds": 5.299345970153809
+    },
+    {
+      "part": "A",
+      "method": "Untrained ResNet-18 + prototypes",
+      "setting": "5-way 2-shot",
+      "n_way": 5,
+      "k_shot": 2,
+      "episodes": 600,
+      "mean": 40.79777798304955,
+      "ci": 0.7963189497271727,
+      "seconds": 6.114660263061523
+    },
+    {
+      "part": "A",
+      "method": "Untrained ResNet-18 + prototypes",
+      "setting": "5-way 5-shot",
+      "n_way": 5,
+      "k_shot": 5,
+      "episodes": 600,
+      "mean": 45.577778009076916,
+      "ci": 0.7203124196257716,
+      "seconds": 5.195486545562744
+    },
+    {
+      "part": "A",
+      "method": "Untrained ResNet-18 + prototypes",
+      "setting": "5-way 10-shot",
+      "n_way": 5,
+      "k_shot": 10,
+      "episodes": 600,
+      "mean": 48.304444606105484,
+      "ci": 0.7087349246948842,
+      "seconds": 3.9281632900238037
+    },
+    {
+      "part": "A",
+      "method": "Untrained ResNet-18 + prototypes",
+      "setting": "5-way 20-shot",
+      "n_way": 5,
+      "k_shot": 20,
+      "episodes": 600,
+      "mean": 49.542222360769905,
+      "ci": 0.710573517743375,
+      "seconds": 7.668230056762695
+    },
+    {
+      "part": "A",
+      "method": "Untrained ResNet-18 + prototypes",
+      "setting": "10-way 1-shot",
+      "n_way": 10,
+      "k_shot": 1,
+      "episodes": 600,
+      "mean": 24.50888892138998,
+      "ci": 0.4160774999100147,
+      "seconds": 4.50453782081604
+    },
+    {
+      "part": "A",
+      "method": "Untrained ResNet-18 + prototypes",
+      "setting": "10-way 5-shot",
+      "n_way": 10,
+      "k_shot": 5,
+      "episodes": 600,
+      "mean": 31.868888939420383,
+      "ci": 0.42990454981294896,
+      "seconds": 7.369647741317749
+    },
+    {
+      "part": "A",
+      "method": "Untrained ResNet-18 + prototypes",
+      "setting": "20-way 1-shot",
+      "n_way": 20,
+      "k_shot": 1,
+      "episodes": 600,
+      "mean": 16.5572222545743,
+      "ci": 0.25138083958751367,
+      "seconds": 8.442297458648682
+    },
+    {
+      "part": "A",
+      "method": "Untrained ResNet-18 + prototypes",
+      "setting": "20-way 5-shot",
+      "n_way": 20,
+      "k_shot": 5,
+      "episodes": 600,
+      "mean": 22.59166668355465,
+      "ci": 0.2449990940302499,
+      "seconds": 8.450016498565674
+    },
+    {
+      "part": "A",
+      "method": "ImageNet ResNet-18 + prototypes",
+      "setting": "5-way 1-shot",
+      "n_way": 5,
+      "k_shot": 1,
+      "episodes": 600,
+      "mean": 75.95333351691563,
+      "ci": 0.9413872646290685,
+      "seconds": 12.318944215774536
+    },
+    {
+      "part": "A",
+      "method": "ImageNet ResNet-18 + prototypes",
+      "setting": "5-way 2-shot",
+      "n_way": 5,
+      "k_shot": 2,
+      "episodes": 600,
+      "mean": 89.19777794679005,
+      "ci": 0.6013632647102367,
+      "seconds": 4.402180194854736
+    },
+    {
+      "part": "A",
+      "method": "ImageNet ResNet-18 + prototypes",
+      "setting": "5-way 5-shot",
+      "n_way": 5,
+      "k_shot": 5,
+      "episodes": 600,
+      "mean": 95.48444476723671,
+      "ci": 0.2982297573174501,
+      "seconds": 3.876275062561035
+    },
+    {
+      "part": "A",
+      "method": "ImageNet ResNet-18 + prototypes",
+      "setting": "5-way 10-shot",
+      "n_way": 5,
+      "k_shot": 10,
+      "episodes": 600,
+      "mean": 96.78888954718907,
+      "ci": 0.26583018243987716,
+      "seconds": 7.484191417694092
+    },
+    {
+      "part": "A",
+      "method": "ImageNet ResNet-18 + prototypes",
+      "setting": "5-way 20-shot",
+      "n_way": 5,
+      "k_shot": 20,
+      "episodes": 600,
+      "mean": 97.62000066041946,
+      "ci": 0.20201821040968979,
+      "seconds": 2.6505401134490967
+    },
+    {
+      "part": "A",
+      "method": "ImageNet ResNet-18 + prototypes",
+      "setting": "10-way 1-shot",
+      "n_way": 10,
+      "k_shot": 1,
+      "episodes": 600,
+      "mean": 68.03444434702396,
+      "ci": 0.6697415594847661,
+      "seconds": 4.570456504821777
+    },
+    {
+      "part": "A",
+      "method": "ImageNet ResNet-18 + prototypes",
+      "setting": "10-way 5-shot",
+      "n_way": 10,
+      "k_shot": 5,
+      "episodes": 600,
+      "mean": 92.03444450100262,
+      "ci": 0.3093471602650393,
+      "seconds": 6.513787746429443
+    },
+    {
+      "part": "A",
+      "method": "ImageNet ResNet-18 + prototypes",
+      "setting": "20-way 1-shot",
+      "n_way": 20,
+      "k_shot": 1,
+      "episodes": 600,
+      "mean": 60.082777673999466,
+      "ci": 0.43802035894099783,
+      "seconds": 8.497812986373901
+    },
+    {
+      "part": "A",
+      "method": "ImageNet ResNet-18 + prototypes",
+      "setting": "20-way 5-shot",
+      "n_way": 20,
+      "k_shot": 5,
+      "episodes": 600,
+      "mean": 87.80555548270543,
+      "ci": 0.238443876398386,
+      "seconds": 9.351462841033936
+    },
+    {
+      "part": "A",
+      "method": "ImageNet ResNet-18 + logistic regression",
+      "setting": "5-way 1-shot",
+      "n_way": 5,
+      "k_shot": 1,
+      "episodes": 600,
+      "mean": 83.66000011066596,
+      "ci": 0.7716587338890818,
+      "seconds": 28.311699867248535
+    },
+    {
+      "part": "A",
+      "method": "ImageNet ResNet-18 + logistic regression",
+      "setting": "5-way 2-shot",
+      "n_way": 5,
+      "k_shot": 2,
+      "episodes": 600,
+      "mean": 91.71333381533623,
+      "ci": 0.5218178279611116,
+      "seconds": 46.91622066497803
+    },
+    {
+      "part": "A",
+      "method": "ImageNet ResNet-18 + logistic regression",
+      "setting": "5-way 5-shot",
+      "n_way": 5,
+      "k_shot": 5,
+      "episodes": 600,
+      "mean": 96.07777817050616,
+      "ci": 0.2901911206794846,
+      "seconds": 66.77219319343567
+    },
+    {
+      "part": "A",
+      "method": "ImageNet ResNet-18 + logistic regression",
+      "setting": "5-way 10-shot",
+      "n_way": 5,
+      "k_shot": 10,
+      "episodes": 600,
+      "mean": 97.3133338590463,
+      "ci": 0.24386698601685053,
+      "seconds": 81.15707516670227
+    },
+    {
+      "part": "A",
+      "method": "ImageNet ResNet-18 + logistic regression",
+      "setting": "5-way 20-shot",
+      "n_way": 5,
+      "k_shot": 20,
+      "episodes": 600,
+      "mean": 98.14000065128009,
+      "ci": 0.18186126716088838,
+      "seconds": 105.20751357078552
+    },
+    {
+      "part": "A",
+      "method": "ImageNet ResNet-18 + logistic regression",
+      "setting": "10-way 1-shot",
+      "n_way": 10,
+      "k_shot": 1,
+      "episodes": 600,
+      "mean": 76.8944444656372,
+      "ci": 0.5840057622296939,
+      "seconds": 40.684067726135254
+    },
+    {
+      "part": "A",
+      "method": "ImageNet ResNet-18 + logistic regression",
+      "setting": "10-way 5-shot",
+      "n_way": 10,
+      "k_shot": 5,
+      "episodes": 600,
+      "mean": 92.20444443821907,
+      "ci": 0.3118983224285555,
+      "seconds": 77.36554861068726
+    },
+    {
+      "part": "A",
+      "method": "ImageNet ResNet-18 + logistic regression",
+      "setting": "20-way 1-shot",
+      "n_way": 20,
+      "k_shot": 1,
+      "episodes": 600,
+      "mean": 68.52777794003487,
+      "ci": 0.40101552299894017,
+      "seconds": 335.672651052475
+    },
+    {
+      "part": "A",
+      "method": "ImageNet ResNet-18 + logistic regression",
+      "setting": "20-way 5-shot",
+      "n_way": 20,
+      "k_shot": 5,
+      "episodes": 600,
+      "mean": 86.86333341399829,
+      "ci": 0.2542716280815923,
+      "seconds": 991.8978047370911
+    }
+  ],
+  "B": [
+    {
+      "part": "B",
+      "method": "ImageNet ResNet-18 + episodic training + prototypes",
+      "step": 0,
+      "acc_1shot": 75.95333351691563,
+      "ci_1shot": 0.9413872646290685,
+      "acc_5shot": 95.48444476723671,
+      "ci_5shot": 0.2982297573174501,
+      "episodes_in_window": 0,
+      "loss_mean": null,
+      "loss_median": null,
+      "loss_max": null,
+      "share_loss_below_0001": null,
+      "eval_seconds": 101.79676175117493,
+      "elapsed_seconds": 101.79707479476929
+    },
+    {
+      "part": "B",
+      "method": "ImageNet ResNet-18 + episodic training + prototypes",
+      "step": 250,
+      "acc_1shot": 77.91555578509967,
+      "ci_1shot": 0.8597517376564694,
+      "acc_5shot": 97.19777836402257,
+      "ci_5shot": 0.2190285244965295,
+      "episodes_in_window": 250,
+      "loss_mean": 1.2234213128734346,
+      "loss_median": 0.9121422469615936,
+      "loss_max": 6.89713191986084,
+      "share_loss_below_0001": 0.16,
+      "eval_seconds": 101.26181054115295,
+      "elapsed_seconds": 739.5418817996979
+    },
+    {
+      "part": "B",
+      "method": "ImageNet ResNet-18 + episodic training + prototypes",
+      "step": 500,
+      "acc_1shot": 80.54666688044865,
+      "ci_1shot": 0.8264216487229709,
+      "acc_5shot": 97.54222290714581,
+      "ci_5shot": 0.20629308130091212,
+      "episodes_in_window": 250,
+      "loss_mean": 0.8639301011837324,
+      "loss_median": 0.5256161391735077,
+      "loss_max": 6.182684421539307,
+      "share_loss_below_0001": 0.248,
+      "eval_seconds": 99.43027901649475,
+      "elapsed_seconds": 1379.6809215545654
+    },
+    {
+      "part": "B",
+      "method": "ImageNet ResNet-18 + episodic training + prototypes",
+      "step": 750,
+      "acc_1shot": 81.49777781963348,
+      "ci_1shot": 0.8184374459480709,
+      "acc_5shot": 97.7466672360897,
+      "ci_5shot": 0.19451055408279677,
+      "episodes_in_window": 250,
+      "loss_mean": 0.5744691152551847,
+      "loss_median": 0.24136827886104584,
+      "loss_max": 5.263740062713623,
+      "share_loss_below_0001": 0.328,
+      "eval_seconds": 95.79241871833801,
+      "elapsed_seconds": 2005.9004423618317
+    },
+    {
+      "part": "B",
+      "method": "ImageNet ResNet-18 + episodic training + prototypes",
+      "step": 1000,
+      "acc_1shot": 81.87777797877789,
+      "ci_1shot": 0.8082925247538054,
+      "acc_5shot": 97.76888952652614,
+      "ci_5shot": 0.18885105191391507,
+      "episodes_in_window": 250,
+      "loss_mean": 0.40028328119098966,
+      "loss_median": 0.13046716153621674,
+      "loss_max": 2.7288897037506104,
+      "share_loss_below_0001": 0.348,
+      "eval_seconds": 89.09295177459717,
+      "elapsed_seconds": 2609.794957637787
+    },
+    {
+      "part": "B",
+      "method": "ImageNet ResNet-18 + episodic training + prototypes",
+      "step": 1250,
+      "acc_1shot": 81.66000013550122,
+      "ci_1shot": 0.8186473232580218,
+      "acc_5shot": 97.78222282727559,
+      "ci_5shot": 0.18683218573247706,
+      "episodes_in_window": 250,
+      "loss_mean": 0.4147745663704279,
+      "loss_median": 0.10159743204712868,
+      "loss_max": 5.25157356262207,
+      "share_loss_below_0001": 0.364,
+      "eval_seconds": 102.29194331169128,
+      "elapsed_seconds": 3259.909576892853
+    },
+    {
+      "part": "B",
+      "method": "ImageNet ResNet-18 + episodic training + prototypes",
+      "step": 1500,
+      "acc_1shot": 82.1733335206906,
+      "ci_1shot": 0.802012139670983,
+      "acc_5shot": 97.8688894311587,
+      "ci_5shot": 0.18211215348166138,
+      "episodes_in_window": 250,
+      "loss_mean": 0.2901464531071815,
+      "loss_median": 0.007933765649795532,
+      "loss_max": 2.404752016067505,
+      "share_loss_below_0001": 0.48,
+      "eval_seconds": 98.32016205787659,
+      "elapsed_seconds": 3936.24920797348
+    },
+    {
+      "part": "B",
+      "method": "ImageNet ResNet-18 + episodic training + prototypes",
+      "step": 1750,
+      "acc_1shot": 81.2222224821647,
+      "ci_1shot": 0.8235552067253552,
+      "acc_5shot": 97.806667248408,
+      "ci_5shot": 0.18761199217391883,
+      "episodes_in_window": 250,
+      "loss_mean": 0.24306603931317125,
+      "loss_median": 0.0008812501619104296,
+      "loss_max": 2.665844202041626,
+      "share_loss_below_0001": 0.504,
+      "eval_seconds": 95.27592730522156,
+      "elapsed_seconds": 4564.537355661392
+    },
+    {
+      "part": "B",
+      "method": "ImageNet ResNet-18 + episodic training + prototypes",
+      "step": 2000,
+      "acc_1shot": 81.02444455524285,
+      "ci_1shot": 0.8373638888014142,
+      "acc_5shot": 97.91333387295406,
+      "ci_5shot": 0.17817710829224062,
+      "episodes_in_window": 250,
+      "loss_mean": 0.2192609711193831,
+      "loss_median": 0.00011504693247843534,
+      "loss_max": 3.014559745788574,
+      "share_loss_below_0001": 0.56,
+      "eval_seconds": 103.53553056716919,
+      "elapsed_seconds": 5197.305196762085
+    }
+  ],
+  "C": [
+    {
+      "part": "C",
+      "method": "ImageNet ResNet-18 + episodic training + prototypes",
+      "setting": "5-way 1-shot",
+      "n_way": 5,
+      "k_shot": 1,
+      "episodes": 600,
+      "mean": 81.02444455524285,
+      "ci": 0.8373638888014142,
+      "seconds": 3.4035067558288574
+    },
+    {
+      "part": "C",
+      "method": "ImageNet ResNet-18 + episodic training + prototypes",
+      "setting": "5-way 2-shot",
+      "n_way": 5,
+      "k_shot": 2,
+      "episodes": 600,
+      "mean": 93.91111150383949,
+      "ci": 0.3957408464943771,
+      "seconds": 3.267636775970459
+    },
+    {
+      "part": "C",
+      "method": "ImageNet ResNet-18 + episodic training + prototypes",
+      "setting": "5-way 5-shot",
+      "n_way": 5,
+      "k_shot": 5,
+      "episodes": 600,
+      "mean": 97.91333387295406,
+      "ci": 0.17817710829224062,
+      "seconds": 3.7128703594207764
+    },
+    {
+      "part": "C",
+      "method": "ImageNet ResNet-18 + episodic training + prototypes",
+      "setting": "5-way 10-shot",
+      "n_way": 5,
+      "k_shot": 10,
+      "episodes": 600,
+      "mean": 98.7244449655215,
+      "ci": 0.13014829103332837,
+      "seconds": 6.699338674545288
+    },
+    {
+      "part": "C",
+      "method": "ImageNet ResNet-18 + episodic training + prototypes",
+      "setting": "5-way 20-shot",
+      "n_way": 5,
+      "k_shot": 20,
+      "episodes": 600,
+      "mean": 99.22666715582211,
+      "ci": 0.09760329897410658,
+      "seconds": 4.989867210388184
+    },
+    {
+      "part": "C",
+      "method": "ImageNet ResNet-18 + episodic training + prototypes",
+      "setting": "10-way 1-shot",
+      "n_way": 10,
+      "k_shot": 1,
+      "episodes": 600,
+      "mean": 74.22222210963567,
+      "ci": 0.602191321256546,
+      "seconds": 7.02789044380188
+    },
+    {
+      "part": "C",
+      "method": "ImageNet ResNet-18 + episodic training + prototypes",
+      "setting": "10-way 5-shot",
+      "n_way": 10,
+      "k_shot": 5,
+      "episodes": 600,
+      "mean": 96.30444449186325,
+      "ci": 0.17927854734551107,
+      "seconds": 4.926052570343018
+    },
+    {
+      "part": "C",
+      "method": "ImageNet ResNet-18 + episodic training + prototypes",
+      "setting": "20-way 1-shot",
+      "n_way": 20,
+      "k_shot": 1,
+      "episodes": 600,
+      "mean": 65.62388888498147,
+      "ci": 0.46136921220731336,
+      "seconds": 8.31242322921753
+    },
+    {
+      "part": "C",
+      "method": "ImageNet ResNet-18 + episodic training + prototypes",
+      "setting": "20-way 5-shot",
+      "n_way": 20,
+      "k_shot": 5,
+      "episodes": 600,
+      "mean": 93.90833324193954,
+      "ci": 0.1551183756423688,
+      "seconds": 14.777154684066772
+    }
+  ],
+  "meta": {
+    "gpu": "Tesla T4",
+    "torch": "2.14.1+cu130",
+    "torchvision": "0.29.1+cu130",
+    "seed": 0,
+    "runtime_seconds": 13595.06638455391,
+    "earlier_run": {
+      "1-shot": 81.0,
+      "5-shot": 97.9
+    },
+    "settings": [
+      [
+        5,
+        1
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        5,
+        10
+      ],
+      [
+        5,
+        20
+      ],
+      [
+        10,
+        1
+      ],
+      [
+        10,
+        5
+      ],
+      [
+        20,
+        1
+      ],
+      [
+        20,
+        5
+      ]
+    ],
+    "full_episodes": 600,
+    "check_episodes": 20,
+    "n_query": 15
+  }
+}

@@ -1,0 +1,6 @@
+numpy
+scikit-learn
+scipy
+torch
+torchvision
+# Recorded runs: Python 3.13, torch 2.14.1+cu130, torchvision 0.29.1+cu130 (single NVIDIA T4 GPU)
